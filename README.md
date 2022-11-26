@@ -65,3 +65,6 @@ I am not looking for contributions to this repository, but I would love to see i
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# WARNING
+RC4 is very insecure to use, but has been used in this algorithm as it fits the use case speed-wise and as I am not a mathematics student, it is still very secure compared to a cipher algorithm which I would design at this moment in time.
