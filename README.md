@@ -58,10 +58,6 @@ decrypt(str(key), cipher)
 >>> "Hello this is  the data"""
 ```
 
-## Contributing
-
-I am not looking for contributions to this repository, but I would love to see improvements, forking this repo is highly encouraged :)
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
